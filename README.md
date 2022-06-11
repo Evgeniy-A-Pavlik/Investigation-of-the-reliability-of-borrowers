@@ -1,2 +1,2 @@
-# yandex-practicum-projects-da
+# yandex-practicum-projects
 Данные проекты были выполнены в ходе обучения в **Яндекс.Практикуме**, на курсе "Анализ данных"
