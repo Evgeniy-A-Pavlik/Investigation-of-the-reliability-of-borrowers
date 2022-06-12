@@ -1,4 +1,4 @@
-# investigation-of-the-reliability-of-borrowers
+# Investigation-of-the-reliability-of-borrowers
 **Исследование надежности заемщиков**\
 Проект №2\
 Данный проект был выполнен в ходе обучения в **Яндекс.Практикуме**, на курсе "Анализ данных", в разделе "Предобработка данных".
